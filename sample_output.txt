@@ -1,0 +1,340 @@
+Choose Player 3 mode:
+1. Manual
+2. Simulation
+Enter mode: 3
+Top card:  Blue 9
+Player 1 cards: 5
+Player 2 cards: 5
+Player 3 cards: 5
+Player 1's turn (using Minimax)
+Hand:
+0 : Blue 5
+1 : Yellow 1
+2 : Green 8
+3 : Blue 0
+4 : Red 3
+AI decision: 
+Play: Blue 5 Expected score: 38.0
+Play: Blue 0 Expected score: 38.0
+Player played: Blue 5
+Top card:  Blue 5
+Player 1 cards: 4
+Player 2 cards: 5
+Player 3 cards: 5
+Player 2's turn (using Expectimax)
+Hand: 
+0 : Red 0
+1 : Green Skip
+2 : Red Skip
+3 : Green 5
+4 : Green 1
+Play: Green 5 Expected Score: 33.0
+Player played: Green 5
+Top card:  Green 5
+Player 1 cards: 4
+Player 2 cards: 4
+Player 3 cards: 5
+Player 3's turn (simulation)
+Hand:
+0 : Red 5
+1 : Yellow 6
+2 : Green 9
+3 : Blue 6
+4 : Red 7
+AI decision: 
+Play: Red 5 Expected score: 36.0
+Play: Green 9 Expected score: 36.0
+Player played: Red 5
+Top card:  Red 5
+Player 1 cards: 4
+Player 2 cards: 4
+Player 3 cards: 4
+Player 1's turn (using Minimax)
+Hand:
+0 : Yellow 1
+1 : Green 8
+2 : Blue 0
+3 : Red 3
+AI decision: 
+Play: Red 3 Expected score: 37.0
+Player played: Red 3
+Top card:  Red 3
+Player 1 cards: 3
+Player 2 cards: 4
+Player 3 cards: 4
+Player 2's turn (using Expectimax)
+Hand: 
+0 : Red 0
+1 : Green Skip
+2 : Red Skip
+3 : Green 1
+Play: Red 0 Expected Score: 40.0
+Play: Red Skip Expected Score: 46.0
+Player played: Red Skip
+Top card:  Red Skip
+Player 1 cards: 3
+Player 2 cards: 3
+Player 3 cards: 4
+Player 1's turn (using Minimax)
+Hand:
+0 : Yellow 1
+1 : Green 8
+2 : Blue 0
+Player 1 draws a card
+Top card:  Red Skip
+Player 1 cards: 4
+Player 2 cards: 3
+Player 3 cards: 4
+Player 2's turn (using Expectimax)
+Hand: 
+0 : Red 0
+1 : Green Skip
+2 : Green 1
+Play: Red 0 Expected Score: 46.0
+Play: Green Skip Expected Score: 50.0
+Player played: Green Skip
+Top card:  Green Skip
+Player 1 cards: 4
+Player 2 cards: 2
+Player 3 cards: 4
+Player 1's turn (using Minimax)
+Hand:
+0 : Yellow 1
+1 : Green 8
+2 : Blue 0
+3 : Green 3
+AI decision: 
+Play: Green 8 Expected score: 31.0
+Play: Green 3 Expected score: 31.0
+Player played: Green 8
+Top card:  Green 8
+Player 1 cards: 3
+Player 2 cards: 2
+Player 3 cards: 4
+Player 2's turn (using Expectimax)
+Hand: 
+0 : Red 0
+1 : Green 1
+Play: Green 1 Expected Score: 48.0
+Player played: Green 1
+Top card:  Green 1
+Player 1 cards: 3
+Player 2 cards: 1
+Player 3 cards: 4
+Player 3's turn (simulation)
+Hand:
+0 : Yellow 6
+1 : Green 9
+2 : Blue 6
+3 : Red 7
+AI decision: 
+Play: Green 9 Expected score: 23.0
+Player played: Green 9
+Top card:  Green 9
+Player 1 cards: 3
+Player 2 cards: 1
+Player 3 cards: 3
+Player 1's turn (using Minimax)
+Hand:
+0 : Yellow 1
+1 : Blue 0
+2 : Green 3
+AI decision: 
+Play: Green 3 Expected score: 38.0
+Player played: Green 3
+Top card:  Green 3
+Player 1 cards: 2
+Player 2 cards: 1
+Player 3 cards: 3
+Player 2's turn (using Expectimax)
+Hand: 
+0 : Red 0
+Player 2 draws a card
+Top card:  Green 3
+Player 1 cards: 2
+Player 2 cards: 2
+Player 3 cards: 3
+Player 3's turn (simulation)
+Hand:
+0 : Yellow 6
+1 : Blue 6
+2 : Red 7
+Player 3 draws a card
+Top card:  Green 3
+Player 1 cards: 2
+Player 2 cards: 2
+Player 3 cards: 4
+Player 1's turn (using Minimax)
+Hand:
+0 : Yellow 1
+1 : Blue 0
+Player 1 draws a card
+Top card:  Green 3
+Player 1 cards: 3
+Player 2 cards: 2
+Player 3 cards: 4
+Player 2's turn (using Expectimax)
+Hand: 
+0 : Red 0
+1 : Blue 2
+Player 2 draws a card
+Top card:  Green 3
+Player 1 cards: 3
+Player 2 cards: 3
+Player 3 cards: 4
+Player 3's turn (simulation)
+Hand:
+0 : Yellow 6
+1 : Blue 6
+2 : Red 7
+3 : Green 4
+AI decision: 
+Play: Green 4 Expected score: 33.0
+Player played: Green 4
+Top card:  Green 4
+Player 1 cards: 3
+Player 2 cards: 3
+Player 3 cards: 3
+Player 1's turn (using Minimax)
+Hand:
+0 : Yellow 1
+1 : Blue 0
+2 : Yellow 7
+Player 1 draws a card
+Top card:  Green 4
+Player 1 cards: 4
+Player 2 cards: 3
+Player 3 cards: 3
+Player 2's turn (using Expectimax)
+Hand: 
+0 : Red 0
+1 : Blue 2
+2 : Red 4
+Play: Red 4 Expected Score: 41.0
+Player played: Red 4
+Top card:  Red 4
+Player 1 cards: 4
+Player 2 cards: 2
+Player 3 cards: 3
+Player 3's turn (simulation)
+Hand:
+0 : Yellow 6
+1 : Blue 6
+2 : Red 7
+AI decision: 
+Play: Red 7 Expected score: 46.0
+Player played: Red 7
+Top card:  Red 7
+Player 1 cards: 4
+Player 2 cards: 2
+Player 3 cards: 2
+Player 1's turn (using Minimax)
+Hand:
+0 : Yellow 1
+1 : Blue 0
+2 : Yellow 7
+3 : Yellow 3
+AI decision: 
+Play: Yellow 7 Expected score: 31.0
+Player played: Yellow 7
+Top card:  Yellow 7
+Player 1 cards: 3
+Player 2 cards: 2
+Player 3 cards: 2
+Player 2's turn (using Expectimax)
+Hand: 
+0 : Red 0
+1 : Blue 2
+Player 2 draws a card
+Top card:  Yellow 7
+Player 1 cards: 3
+Player 2 cards: 3
+Player 3 cards: 2
+Player 3's turn (simulation)
+Hand:
+0 : Yellow 6
+1 : Blue 6
+AI decision: 
+Play: Yellow 6 Expected score: 33.0
+Player played: Yellow 6
+Top card:  Yellow 6
+Player 1 cards: 3
+Player 2 cards: 3
+Player 3 cards: 1
+Player 1's turn (using Minimax)
+Hand:
+0 : Yellow 1
+1 : Blue 0
+2 : Yellow 3
+AI decision: 
+Play: Yellow 1 Expected score: 38.0
+Play: Yellow 3 Expected score: 26.0
+Player played: Yellow 1
+Top card:  Yellow 1
+Player 1 cards: 2
+Player 2 cards: 3
+Player 3 cards: 1
+Player 2's turn (using Expectimax)
+Hand: 
+0 : Red 0
+1 : Blue 2
+2 : Blue 3
+Player 2 draws a card
+Top card:  Yellow 1
+Player 1 cards: 2
+Player 2 cards: 4
+Player 3 cards: 1
+Player 3's turn (simulation)
+Hand:
+0 : Blue 6
+Player 3 draws a card
+Top card:  Yellow 1
+Player 1 cards: 2
+Player 2 cards: 4
+Player 3 cards: 2
+Player 1's turn (using Minimax)
+Hand:
+0 : Blue 0
+1 : Yellow 3
+AI decision: 
+Play: Yellow 3 Expected score: 41.0
+Player played: Yellow 3
+Top card:  Yellow 3
+Player 1 cards: 1
+Player 2 cards: 4
+Player 3 cards: 2
+Player 2's turn (using Expectimax)
+Hand: 
+0 : Red 0
+1 : Blue 2
+2 : Blue 3
+3 : Red 2
+Play: Blue 3 Expected Score: 30.0
+Player played: Blue 3
+Top card:  Blue 3
+Player 1 cards: 1
+Player 2 cards: 3
+Player 3 cards: 2
+Player 3's turn (simulation)
+Hand:
+0 : Blue 6
+1 : Green 2
+AI decision: 
+Play: Blue 6 Expected score: 40.0
+Player played: Blue 6
+Top card:  Blue 6
+Player 1 cards: 1
+Player 2 cards: 3
+Player 3 cards: 1
+Player 1's turn (using Minimax)
+Hand:
+0 : Blue 0
+AI decision: 
+Play: Blue 0 Expected score: 46.0
+Player played: Blue 0
+Top card:  Blue 0
+Player 1 cards: 0
+Player 2 cards: 3
+Player 3 cards: 1
+Game Over
+Player 1 wins
